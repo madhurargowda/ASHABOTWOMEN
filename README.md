@@ -1,10 +1,10 @@
-# ASHABOTWOMEN
+ASHABOTWOMEN
 Here’s a complete and professional `README.md` file you can use for your GitHub repository. It reflects your **current implementation** using Gradio, FAISS, and SentenceTransformers, while also highlighting future plans like Gemini and Chroma.
 
 ---
 
 ````markdown
-# Asha AI – Women’s Career Empowerment Chatbot
+Asha AI – Women’s Career Empowerment Chatbot
 
 Asha AI is an intelligent virtual assistant designed to support and empower women in their professional journey. It provides personalized responses related to job opportunities, mentorship programs, events, FAQs, and organizational details — all through a simple conversational interface.
 
@@ -23,7 +23,7 @@ Features
 
 ---
 
-🧠 Tech Stack
+Tech Stack
 
 | Layer                     | Technology Used                 |
 |--------------------------|---------------------------------|
@@ -68,7 +68,7 @@ gradio link = https://8982dd667a4d98f67d.gradio.live/
 
 ---
 
-📦 Installation
+Installation
 
 ```bash
 git clone https://github.com/madhurargowda/ashabot.git
@@ -92,7 +92,7 @@ Each text chunk is converted into embeddings and indexed using FAISS for fast se
 
 ---
 
-## 📈 Future Enhancements
+Future Enhancements
 
 LLM Integration (Google Gemini or OpenAI GPT)
 Bias Detection Module (Ethical AI layer)
@@ -103,7 +103,7 @@ Real-time Job & Event APIs Integration
 
 ---
 
-## 🛡️ Ethical AI Principles
+Ethical AI Principles
 
 Asha AI aims to foster:
 
@@ -113,14 +113,13 @@ Privacy-first design (no login required, no user tracking)
 
 ---
 
-📽️ Demo Video
+Demo Video
 
 Watch a short walkthrough of the bot in action:
 https://youtu.be/3K9MkfQpj68?si=IPaiaCwznRE9IUch
 
 ---
-
-#Contributing
+Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
