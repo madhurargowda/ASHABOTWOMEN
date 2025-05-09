@@ -12,14 +12,14 @@ Asha AI is an intelligent virtual assistant designed to support and empower wome
 
 ---
 
-🔍 Features
+Features
 
-- Job Listings Exploration** – Discover curated job opportunities.
-- Mentorship Discovery** – Learn about leadership and career comeback programs.
-- Event Updates** – Get info about career-building sessions and conferences.
-- FAQ Assistant** – Instant help for common questions like profile updates or how to apply.
-- Retrieval Augmented Generation (RAG)** – Uses semantic search to return relevant answers.
-- Gradio Chat UI** – No installation, deployed on HuggingFace Spaces.
+- Job Listings Exploration – Discover curated job opportunities.
+- Mentorship Discovery – Learn about leadership and career comeback programs.
+- Event Updates – Get info about career-building sessions and conferences.
+- FAQ Assistant – Instant help for common questions like profile updates or how to apply.
+- Retrieval Augmented Generation (RAG) – Uses semantic search to return relevant answers.
+- Gradio Chat UI – No installation, deployed on HuggingFace Spaces.
 
 ---
 
@@ -37,7 +37,7 @@ Asha AI is an intelligent virtual assistant designed to support and empower wome
 
 ---
 
-🏗️ Architecture Overview
+Architecture Overview
 
 ```text
 User (Frontend)
@@ -59,10 +59,12 @@ Reply to User
 
 ---
 
-🚀 Deployment
+Deployment
 
 You can try the live demo here:
-👉 https://huggingface.co/spaces/madhura6/asha-ai-chatbot
+https://huggingface.co/spaces/madhura6/asha-ai-chatbot
+
+gradio link = https://8982dd667a4d98f67d.gradio.live/
 
 ---
 
@@ -92,12 +94,12 @@ Each text chunk is converted into embeddings and indexed using FAISS for fast se
 
 ## 📈 Future Enhancements
 
-LLM Integration** (Google Gemini or OpenAI GPT)
-Bias Detection Module** (Ethical AI layer)
-Multilingual Support** (Hindi, Kannada, Tamil, Telugu)
-Mobile App** (Flutter or React Native)
-Personalized Recommendations**
-Real-time Job & Event APIs Integration**
+LLM Integration (Google Gemini or OpenAI GPT)
+Bias Detection Module (Ethical AI layer)
+Multilingual Support(Hindi, Kannada, Tamil, Telugu)
+Mobile App(Flutter or React Native)
+Personalized Recommendations
+Real-time Job & Event APIs Integration
 
 ---
 
@@ -105,16 +107,16 @@ Real-time Job & Event APIs Integration**
 
 Asha AI aims to foster:
 
-* Respectful, empowering communication
-* No tolerance for bias or offensive content
-* Privacy-first design (no login required, no user tracking)
+Respectful, empowering communication
+No tolerance for bias or offensive content
+Privacy-first design (no login required, no user tracking)
 
 ---
 
-## 📽️ Demo Video
+📽️ Demo Video
 
 Watch a short walkthrough of the bot in action:
-🎥 [YouTube Demo](https://youtu.be/3K9MkfQpj68?si=N-Sl5xTODLEp5Qb0)
+https://youtu.be/3K9MkfQpj68?si=IPaiaCwznRE9IUch
 
 ---
 
@@ -131,10 +133,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
  Developed by Madhura M.R and Team (H2S Hackathon)
-
-```
-
----
-
-Let me know if you’d like me to generate a `requirements.txt` as well.
+.
 ```
